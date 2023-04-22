@@ -3,3 +3,31 @@
 __pycache__/
 
 # Add more files & directories as needed
+# Compiled python files
+*.pyc
+
+# Logs
+*.log
+
+# Environment files
+.env
+venv/
+.env.local
+.env.*.local
+
+# Dependency directories
+venv/
+env/
+env.bak/
+
+# Build directories
+dist/
+build/
+*.egg-info/
+
+# IDE files
+.idea/
+.vscode/
+
+# Data files
+data/
