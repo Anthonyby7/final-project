@@ -69,6 +69,5 @@ CREATE TABLE IF NOT EXISTS uber
     Pickup TIMESTAMP,
     DayofWeek INTEGER,
     Trip_Distance FLOAT,
-    Pickup_Date TIMESTAMP
 );
 """
