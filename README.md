@@ -1,5 +1,5 @@
 # IEOR4501 Final Project 
-Group 3 (Jingren Zhao jz3541  &  Xingyu Hu xh25)
+Group 3 (Jingren Zhao jz3541  &  Xingyu Hu xh255)
 
 ### Basic Description
 
